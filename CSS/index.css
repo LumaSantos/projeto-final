@@ -1,3 +1,10 @@
-body{
-    background-color: oldlace
+html{
+    background-color: oldlace;
+}
+@font-face {
+    font-family: pw_curvy_regular_script;
+    src: local(pw_curvy_regular_script) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\pw_curvy_regular_script);
+}
+main h1{
+    font-family: pw_curvy_regular_script;
 }
