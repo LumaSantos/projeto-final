@@ -13,10 +13,11 @@ body main span h1{
     margin-left:6cm;
     margin-bottom:0cm;
     margin-right:0cm;
+    text-align: center;
 }
 body main span img{
-    margin-top:0cm;
-    margin-left:0cm;
+    margin-top:2%;
+    margin-left:1%;
     margin-bottom:0cm;
     margin-right:0cm;
     max-width:180px;
@@ -29,4 +30,27 @@ body main span img{
     margin-left:0cm;
     margin-right:0cm;
     height:15cm;
+}
+header nav ul li{
+    display: flex;
+    text-align: right;
+    float: right;
+    margin: 1%;
+    padding:0%;
+ }
+footer div h3{
+    font-family: "alysa scrip";
+    src: local(alysa scrip) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\alysa);
+    font-size:300%;
+    margin-top: -5px;
+    text-align: center;
+}
+footer div form{
+    text-align: center;
+}
+footer{
+    background-color: #baa785;
+    padding:5%;
+    margin:0%;
+    margin-top:-2cm;
 }
