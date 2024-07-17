@@ -5,16 +5,16 @@ html{
     font-family: "alysa scrip";
     src: local(alysa scrip) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\alysa);
 }
-main h1{
+body main span h1{
     font-family: "alysa scrip";
     color: #595142;
     font-size: 400%;
-    margin-top:1cm;
+    margin-top:-3cm;
     margin-left:6cm;
     margin-bottom:0cm;
     margin-right:0cm;
 }
-body main div img{
+body main span img{
     margin-top:0cm;
     margin-left:0cm;
     margin-bottom:0cm;
