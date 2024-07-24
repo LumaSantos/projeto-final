@@ -8,22 +8,22 @@ html{
 body main span h1{
     font-family: "autography";
     color: #595142;
-    font-size: 400%;
-    margin-top:-3cm;
-    margin-left: 5cm;
+    font-size: 280%;
+    margin-top:-2cm;
+    margin-left: 6cm;
     margin-bottom:0cm;
     margin-right:1cm;
     text-align: center;
 }
 body main span img{
-    margin-top:25px;
+    margin-top:0%;
     margin-left:0cm;
     margin-bottom:0cm;
     margin-right:0cm;
-    max-width:180px;
-    max-height:90px;
-    width:180px;
-    height:90px;
+    max-width:170px;
+    max-height:85px;
+    width:170px;
+    height:85px;
 }
 .imagem {
     width:36cm;
@@ -74,5 +74,7 @@ section h4{
 }
 section p{
     text-align: justify;
+    font-family: "liberation_sans";
+    src: local(liberation_sans) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\liberation_sans);
 }
     
