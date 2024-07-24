@@ -1,5 +1,5 @@
 html{
-    background-color: #d1c3ac;
+    background-color: #e8e1d5;
 }
 @font-face {
     font-family: "autography";
@@ -7,7 +7,7 @@ html{
 }
 body main span h1{
     font-family: "autography";
-    color: #595142;
+    color: #484643;
     font-size: 280%;
     margin-top:-2cm;
     margin-left: 6cm;
@@ -32,7 +32,7 @@ body main span img{
     margin-right: 0cm;
 }
 header nav ul li{
-    background-color: #a79c89;
+    background-color: #c4b7a0;
     float:inline-start;
     margin: 5cm;
     margin-top:0%;
@@ -43,7 +43,7 @@ header nav ul li{
 footer div h3{
     font-family: "autography";
     src: local(autography) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\autography);
-    color: #595142;
+    color: #484643;
     font-size:300%;
     margin-top: -12px;
     text-align: center;
@@ -52,8 +52,8 @@ footer div form{
     text-align: center;
 }
 footer{
-    background-color: #baa785;
-    padding:5%;
+    background-color: #c4b7a0;
+    padding:2%;
     margin:-1cm;
     margin-left: -1cm;
     margin-right: -1cm;
@@ -61,20 +61,31 @@ footer{
 section h2{
     font-family: "autography";
     src: local(autography) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\autography);
-    color: #595142;    
+    color: #484643;    
     font-size: 300%;
     text-align: center;
 }
 section h4{
     font-family: "autography";
     src: local(autography) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\autography);
-    color: #595142;    
+    color: #484643;    
     font-size: 200%;
     text-align: center;
 }
 section p{
     text-align: justify;
     font-family: "liberation_sans";
-    src: local(liberation_sans) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\liberation_sans);
+    src: local (liberation_sans) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\liberation_sans);
+}
+section div{
+    font-family: "autography";
+    src: local(autography) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\autography);
+    color: #484643;    
+    background-color: #c4b7a0;
+    text-align: center;
+    padding-right: 10%
+    padding-left: 10%;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
     
