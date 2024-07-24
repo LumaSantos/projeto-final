@@ -10,14 +10,14 @@ body main span h1{
     color: #595142;
     font-size: 400%;
     margin-top:-3cm;
-    margin-left:6cm;
+    margin-left: 5cm;
     margin-bottom:0cm;
-    margin-right:0cm;
+    margin-right:1cm;
     text-align: center;
 }
 body main span img{
-    margin-top:2%;
-    margin-left:1%;
+    margin-top:25px;
+    margin-left:0cm;
     margin-bottom:0cm;
     margin-right:0cm;
     max-width:180px;
@@ -27,22 +27,25 @@ body main span img{
 }
 .imagem {
     width:36cm;
-    margin-left:0cm;
-    margin-right:0cm;
-    height:15cm;
+    margin-left:0%;
+    height: 15cm;
+    margin-right: 0cm;
 }
 header nav ul li{
-    display: flex;
-    text-align: right;
-    float: right;
-    margin: 1%;
-    padding:0%;
+    background-color: #a79c89;
+    float:inline-start;
+    margin: 5cm;
+    margin-top:0%;
+    padding:1%;
+    margin-bottom: 0%;
+    margin-right: 0cm;
  }
 footer div h3{
     font-family: "alysa scrip";
     src: local(alysa scrip) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\alysa);
+    color: #595142;
     font-size:300%;
-    margin-top: -5px;
+    margin-top: -12px;
     text-align: center;
 }
 footer div form{
@@ -51,6 +54,22 @@ footer div form{
 footer{
     background-color: #baa785;
     padding:5%;
-    margin:0%;
-    margin-top:-2cm;
+    margin:-1cm;
+    margin-left: -1cm;
+    margin-right: -1cm;
 }
+section h2{
+    font-family: "alysa scrip";
+    src: local(alysa scrip) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\alysa);
+    color: #595142;    
+    font-size: 300%;
+    text-align: center;
+}
+section h4{
+    font-family: "alysa scrip";
+    src: local(alysa scrip) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\alysa);
+    color: #595142;    
+    font-size: 200%;
+    text-align: center;
+}
+    
