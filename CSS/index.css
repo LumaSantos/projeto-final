@@ -77,16 +77,29 @@ section p{
     font-family: "liberation_sans";
     src: local (liberation_sans) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\liberation_sans);
 }
-section div{
+section div p{
     font-family: "autography";
     src: local(autography) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\autography);
     color: #484643;    
     background-color: #c4b7a0;
+    font-size: 300%;
     text-align:center;
     padding-bottom: 2%;
     padding-top: 2%;
-    padding-left: 46%;
+    padding-left: 15%;
     padding-right: 15%
   
 }
-    
+section div img{
+    width: 60mm;
+    height: 100mm;
+    padding-top: 0%;
+    padding-left: 42%;
+    padding-right: 30%;
+}
+section span img{
+    width: 60mm;
+    height: 60mm;
+    padding-inline-end: 7%;
+    margin-left: 3cm;
+}
