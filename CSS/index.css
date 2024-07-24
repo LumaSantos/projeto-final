@@ -2,11 +2,11 @@ html{
     background-color: #d1c3ac;
 }
 @font-face {
-    font-family: "alysa scrip";
-    src: local(alysa scrip) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\alysa);
+    font-family: "autography";
+    src: local(autography) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\autography);
 }
 body main span h1{
-    font-family: "alysa scrip";
+    font-family: "autography";
     color: #595142;
     font-size: 400%;
     margin-top:-3cm;
@@ -41,8 +41,8 @@ header nav ul li{
     margin-right: 0cm;
  }
 footer div h3{
-    font-family: "alysa scrip";
-    src: local(alysa scrip) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\alysa);
+    font-family: "autography";
+    src: local(autography) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\autography);
     color: #595142;
     font-size:300%;
     margin-top: -12px;
@@ -59,17 +59,20 @@ footer{
     margin-right: -1cm;
 }
 section h2{
-    font-family: "alysa scrip";
-    src: local(alysa scrip) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\alysa);
+    font-family: "autography";
+    src: local(autography) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\autography);
     color: #595142;    
     font-size: 300%;
     text-align: center;
 }
 section h4{
-    font-family: "alysa scrip";
-    src: local(alysa scrip) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\alysa);
+    font-family: "autography";
+    src: local(autography) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\autography);
     color: #595142;    
     font-size: 200%;
     text-align: center;
+}
+section p{
+    text-align: justify;
 }
     
