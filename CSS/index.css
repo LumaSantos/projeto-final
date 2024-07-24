@@ -97,7 +97,13 @@ section div img{
     padding-left: 42%;
     padding-right: 30%;
 }
-section span img{
+section span a img{
+    width: 60mm;
+    height: 60mm;
+    padding-inline-end: 7%;
+    margin-left: 3cm;
+}
+section span a img
     width: 60mm;
     height: 60mm;
     padding-inline-end: 7%;
