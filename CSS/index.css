@@ -58,6 +58,13 @@ footer{
     margin-left: -1cm;
     margin-right: -1cm;
 }
+.TextoTituloDasMusicas{
+    font-family: "autography";
+    src: local(autography) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\autography);
+    color: #484643;    
+    font-size: 200%;
+    text-align: center;
+}   
 section h2{
     font-family: "autography";
     src: local(autography) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\autography);
@@ -65,17 +72,10 @@ section h2{
     font-size: 300%;
     text-align: center;
 }
-section h4{
-    font-family: "autography";
-    src: local(autography) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\autography);
-    color: #484643;    
-    font-size: 200%;
-    text-align: center;
-}
 section p{
     text-align: justify;
-    font-family: "liberation_sans";
-    src: local (liberation_sans) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\liberation_sans);
+    font-family: "LiberationSans-Regular";
+    src: local(LiberationSans-Regular) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\LiberationSans-Regular);
 }
 section div p{
     font-family: "autography";
@@ -103,7 +103,7 @@ section span a img{
     padding-inline-end: 7%;
     margin-left: 3cm;
 }
-section span a img
+section span a img{
     width: 60mm;
     height: 60mm;
     padding-inline-end: 7%;
