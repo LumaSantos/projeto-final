@@ -109,3 +109,19 @@ section span a img{
     padding-inline-end: 7%;
     margin-left: 3cm;
 }
+section nav table{ 
+    font-family: "autography";
+    src: local(autography) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\autography);
+    font-size: 200%;
+    table-layout: fixed;
+    text-align: center;
+    width: 100%;
+}
+.foto-da-luma{
+    width: 25%;
+    padding-left: 1cm;
+}
+.logos{
+    width: 3%;
+    margin-top: cm;
+}
