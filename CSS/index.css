@@ -118,9 +118,23 @@ section nav table{
     width: 100%;
 }
 .foto-da-luma{
+    float: left;
+    padding: 2%;
+    margin: 0px 10px 10px 0;
     width: 25%;
-    padding-left: 1cm;
 }
-.logos{
-    width: 3%;
+.foto-da-luma{
+    width: 100%;
+}
+.logo-linkedin{
+    width: 10%;
+    margin-left: 35%;
+}
+.logo-instagram{
+    width: 10%;
+    padding: 1%;
+}
+.logo-wzz{
+    width: 10%;
+    padding: 1%;
 }
