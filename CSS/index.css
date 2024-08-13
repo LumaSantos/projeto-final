@@ -115,27 +115,38 @@ section nav table{
     text-align: center;
     width: 100%;
 }
+
 .foto-da-luma{
     float: left;
     padding: 1%;
     margin: 0px 5px 5px 0;
-    width: 25%;
+    width: 20%;
 }
-.foto-da-luma{
-    width: 200%;
+
+.flex-container{
+    display: flex;
+    justify-content: space-around;
 }
+
+.flex-itens{
+
+}
+
 .logo-linkedin{
-    width: 15%;
-    margin-left: 46%;
+    width: 5mm;
+    height: 5mm;
 }
-.logo-instagram{
-    width: 15%;
-    padding: 1%;
-}
+
 .logo-wzz{
-    width: 15%;
-    padding: 1%;
+    width: 5mm;
+    height: 5mm;
 }
+
+.logo-instagram{
+    width: 5mm;
+    height: 5mm;
+}
+
 .textosobremim{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 20px;
