@@ -3,7 +3,7 @@ html{
 }
 @font-face {
     font-family: "autography";
-    src: local(autography) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\autography);
+    src: url("../autography/autography.otf") format("opentype");
 }
 body main span h1{
     font-family: "autography";
