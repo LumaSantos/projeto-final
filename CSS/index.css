@@ -12,13 +12,14 @@ body {
 
 body main span h1{
   color: #484643;
-  font-size: 280%;
+  font-size: 200%;
   margin-top:-2cm;
   margin-left: 6cm;
   margin-bottom:0cm;
   margin-right:1cm;
   text-align: center;
 }
+
 body main span img{
   margin-top:0%;
   margin-left:0cm;
@@ -43,6 +44,7 @@ header nav ul li{
   padding:1%;
   margin-bottom: 0%;
   margin-right: 0cm;
+  font-size: 80%;
 }
 footer div h3{
   font-family: "autography";
@@ -63,13 +65,16 @@ footer{
   font-family: "autography";
   src: url("../autography/autography.otf") format("opentype");
   color: #484643;    
+  font-size: 250%;
+  text-align: center;
+}
+
+section h2 {
+  font-family: "autography";
+  src: url("../autography/autography.otf") format("opentype");
   font-size: 400%;
   text-align: center;
-}   
-section h2 {
-  color: #484643;    
-  font-size: 300%;
-  text-align: center;
+  color: #484643;
 }
 section p{
   text-align: justify;
@@ -77,7 +82,7 @@ section p{
 section div p {
   color: #484643;    
   background-color: #c4b7a0;
-  font-size: 300%;
+  font-size: 200%;
   text-align:center;
   padding-bottom: 2%;
   padding-top: 2%;
@@ -122,10 +127,6 @@ section nav table{
   justify-content: space-around;
 }
 
-.flex-itens{
-
-}
-
 .logo-linkedin{
   width: 5mm;
   height: 5mm;
@@ -143,28 +144,24 @@ section nav table{
 
 .texto-lucida-sobre-mim {
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  font-size: 20px;
+  font-size: 15px;
   margin-left: 20%;
   line-height: 25px;
   margin-right: 5%;
+  color: #484643;
 }
 
 .texto-lucida {
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
   font-size: 10.5px !important;
   line-height: 40px;
-}
-
-.texto-lucida-titulo {
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
-  font-size: 20.5px !important;
-  line-height: 40px;
+  color: #484643;
 }
 
 nav ul li a {
 text-decoration: none;
 color: black; /* Cor inicial do texto */
-padding: 10px;
+padding: 5px;
 transition: color 0.3s ease, background-color 0.3s ease; /* Suaviza a transição de cor */
 }
 
