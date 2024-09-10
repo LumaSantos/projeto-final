@@ -1,128 +1,125 @@
 html{
-    background-color: #e8e1d5;
+  background-color: #e8e1d5;
 }
 @font-face {
-    font-family: "autography";
-    src: url("../autography/autography.otf") format("opentype");
+  font-family: "autography";
+  src: url("../autography/autography.otf") format("opentype");
 }
+
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 body main span h1{
-    font-family: "autography";
-    color: #484643;
-    font-size: 280%;
-    margin-top:-2cm;
-    margin-left: 6cm;
-    margin-bottom:0cm;
-    margin-right:1cm;
-    text-align: center;
+  color: #484643;
+  font-size: 280%;
+  margin-top:-2cm;
+  margin-left: 6cm;
+  margin-bottom:0cm;
+  margin-right:1cm;
+  text-align: center;
 }
 body main span img{
-    margin-top:0%;
-    margin-left:0cm;
-    margin-bottom:0cm;
-    margin-right:0cm;
-    max-width:170px;
-    max-height:85px;
-    width:170px;
-    height:85px;
+  margin-top:0%;
+  margin-left:0cm;
+  margin-bottom:0cm;
+  margin-right:0cm;
+  max-width:170px;
+  max-height:85px;
+  width:170px;
+  height:85px;
 }
 .imagem {
-    width:36cm;
-    margin-left:0%;
-    height: 15cm;
-    margin-right: 0cm;
+  width:36cm;
+  margin-left:0%;
+  height: 15cm;
+  margin-right: 0cm;
 }
 header nav ul li{
-    background-color: #c4b7a0;
-    float:inline-start;
-    margin: 4cm;
-    margin-top:0%;
-    padding:1%;
-    margin-bottom: 0%;
-    margin-right: 0cm;
- }
+  background-color: #c4b7a0;
+  float:inline-start;
+  margin: 4cm;
+  margin-top:0%;
+  padding:1%;
+  margin-bottom: 0%;
+  margin-right: 0cm;
+}
 footer div h3{
-    font-family: "autography";
-    src: local(autography) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\autography);
-    color: #484643;
-    font-size:300%;
-    margin-top: -12px;
-    text-align: center;
+  font-family: "autography";
+  src: url("../autography/autography.otf") format("opentype");
+  color: #484643;
+  font-size:300%;
+  margin-top: -12px;
+  text-align: center;
 }
 footer div form{
-    text-align: center;
+  text-align: center;
 }
 footer{
-    background-color: #c4b7a0;
-    padding:2%;
+  background-color: #c4b7a0;
+  padding:2%;
 }
-.TextoTituloDasMusicas{
-    font-family: "autography";
-    src: local(autography) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\autography);
-    color: #484643;    
-    font-size: 200%;
-    text-align: center;
+.texto-letra-autography {
+  font-family: "autography";
+  src: url("../autography/autography.otf") format("opentype");
+  color: #484643;    
+  font-size: 400%;
+  text-align: center;
 }   
-section h2{
-    font-family: "autography";
-    src: local(autography) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\autography);
-    color: #484643;    
-    font-size: 300%;
-    text-align: center;
+section h2 {
+  color: #484643;    
+  font-size: 300%;
+  text-align: center;
 }
 section p{
-    text-align: justify;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: justify;
 }
-section div p{
-    font-family: "autography";
-    src: local(autography) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\autography);
-    color: #484643;    
-    background-color: #c4b7a0;
-    font-size: 300%;
-    text-align:center;
-    padding-bottom: 2%;
-    padding-top: 2%;
-    padding-left: 15%;
-    padding-right: 15%
-  
+section div p {
+  color: #484643;    
+  background-color: #c4b7a0;
+  font-size: 300%;
+  text-align:center;
+  padding-bottom: 2%;
+  padding-top: 2%;
+  padding-left: 15%;
+  padding-right: 15%  
 }
+
 section div img{
-    width: 60mm;
-    height: 100mm;
-    padding-top: 0%;
-    padding-left: 42%;
-    padding-right: 30%;
+  width: 60mm;
+  height: 100mm;
+  padding-top: 0%;
+  padding-left: 42%;
+  padding-right: 30%;
 }
 section span a img{
-    width: 60mm;
-    height: 60mm;
-    padding-inline-end: 7%;
-    margin-left: 3cm;
+  width: 60mm;
+  height: 60mm;
+  padding-inline-end: 7%;
+  margin-left: 3cm;
 }
 section span a img{
-    width: 60mm;
-    height: 60mm;
-    padding-inline-end: 7%;
-    margin-left: 3cm;
+  width: 60mm;
+  height: 60mm;
+  padding-inline-end: 7%;
+  margin-left: 3cm;
 }
 section nav table{ 
-    font-family: "autography";
-    src: local(autography) url(C:\Users\SMBT15-COORD2\Desktop\CODER\projeto_final\autography);
-    font-size: 200%;
-    text-align: center;
-    width: 100%;
+  font-size: 200%;
+  text-align: center;
+  width: 100%;
 }
 
 .foto-da-luma{
-    float: left;
-    padding: 1%;
-    margin: 0px 5px 5px 0;
-    width: 20%;
+  float: left;
+  padding: 1%;
+  margin: 0px 5px 5px 0;
+  width: 20%;
 }
 
 .flex-container{
-    display: flex;
-    justify-content: space-around;
+  display: flex;
+  justify-content: space-around;
 }
 
 .flex-itens{
@@ -130,47 +127,59 @@ section nav table{
 }
 
 .logo-linkedin{
-    width: 5mm;
-    height: 5mm;
+  width: 5mm;
+  height: 5mm;
 }
 
 .logo-wzz{
-    width: 5mm;
-    height: 5mm;
+  width: 5mm;
+  height: 5mm;
 }
 
 .logo-instagram{
-    width: 5mm;
-    height: 5mm;
+  width: 5mm;
+  height: 5mm;
 }
 
-.textosobremim{
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 20px;
-    margin-left: 20%;
-    line-height: 25px;
-    margin-right: 5%;
+.texto-lucida-sobre-mim {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  margin-left: 20%;
+  line-height: 25px;
+  margin-right: 5%;
+}
+
+.texto-lucida {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+  font-size: 10.5px !important;
+  line-height: 40px;
+}
+
+.texto-lucida-titulo {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+  font-size: 20.5px !important;
+  line-height: 40px;
 }
 
 nav ul li a {
-  text-decoration: none;
-  color: black; /* Cor inicial do texto */
-  padding: 10px;
-  transition: color 0.3s ease, background-color 0.3s ease; /* Suaviza a transição de cor */
+text-decoration: none;
+color: black; /* Cor inicial do texto */
+padding: 10px;
+transition: color 0.3s ease, background-color 0.3s ease; /* Suaviza a transição de cor */
 }
 
 nav ul li a:hover {
-  color: white; /* Cor do texto ao passar o mouse */
-  background-color: #000; /* Cor de fundo ao passar o mouse */
-  border-radius: 5px; /* Adiciona bordas arredondadas ao fundo */
+color: white; /* Cor do texto ao passar o mouse */
+background-color: #000; /* Cor de fundo ao passar o mouse */
+border-radius: 5px; /* Adiciona bordas arredondadas ao fundo */
 }
 
 header {
-  text-align: center;
+text-align: center;
 }
 
 .imagem {
-  margin-top: 20px;
-  max-width: 100%;
-  height: auto;
+margin-top: 20px;
+max-width: 100%;
+height: auto;
 }
